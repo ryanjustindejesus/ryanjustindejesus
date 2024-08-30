@@ -6,6 +6,7 @@
   - [Installing Software in a Linux Distribution](https://github.com/ryanjustindejesus/Linux-Command-Line-Labs/blob/main/README.md)
   - [Examining input and output in the Linux shell](https://github.com/ryanjustindejesus/examine-input-and-output-in-the-shell/blob/main/README.md)
   - [Find files with Linux commands](https://github.com/ryanjustindejesus/find-files-with-Linux-commands/blob/main/README.md)
+  - [Filtering with grep](https://github.com/ryanjustindejesus/filter-with-grep/blob/main/README.md)
 - <b>SQL</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
