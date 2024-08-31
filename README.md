@@ -8,6 +8,7 @@
   - [Find files with Linux commands](https://github.com/ryanjustindejesus/find-files-with-Linux-commands/blob/main/README.md)
   - [Filtering with grep](https://github.com/ryanjustindejesus/filter-with-grep/blob/main/README.md)
   - [Managing files with Linux commands](https://github.com/ryanjustindejesus/manage-files-with-Linux-commands/blob/main/README.md)
+  - [Managing authorization](https://github.com/ryanjustindejesus/manage-authorization/blob/main/README.md)
 - <b>SQL</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
