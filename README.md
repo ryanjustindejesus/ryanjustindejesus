@@ -20,6 +20,7 @@
   - [Managing files with Linux commands](https://github.com/ryanjustindejesus/manage-files-with-Linux-commands/blob/main/README.md)
   - [Managing authorization](https://github.com/ryanjustindejesus/manage-authorization/blob/main/README.md)
   - [Adding and Managing users with Linux commands](https://github.com/ryanjustindejesus/Add-and-manage-users-with-Linux-commands/blob/main/README.md)
+  - [Getting help in the command line](https://github.com/ryanjustindejesus/Get-help-in-the-command-line/blob/main/README.md)
 - <b>SQL</b>
 
 - <b>Python</b>
