@@ -22,7 +22,7 @@
   - [Adding and Managing users with Linux commands](https://github.com/ryanjustindejesus/Add-and-manage-users-with-Linux-commands/blob/main/README.md)
   - [Getting help in the command line](https://github.com/ryanjustindejesus/Get-help-in-the-command-line/blob/main/README.md)
 - <b>SQL</b>
-
+  - [Performing a SQL query](https://github.com/ryanjustindejesus/Perform-a-SQL-query/blob/main/README.md)
 - <b>Python</b>
 
 - <b>SIEM Tools</b>
