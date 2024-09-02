@@ -23,6 +23,7 @@
   - [Getting help in the command line](https://github.com/ryanjustindejesus/Get-help-in-the-command-line/blob/main/README.md)
 - <b>SQL</b>
   - [Performing a SQL query](https://github.com/ryanjustindejesus/Perform-a-SQL-query/blob/main/README.md)
+  - [Filtering a SQL query](https://github.com/ryanjustindejesus/Filter-a-SQL-query/blob/main/README.md)
 - <b>Python</b>
 
 - <b>SIEM Tools</b>
