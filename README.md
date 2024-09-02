@@ -21,15 +21,17 @@
   - [Managing authorization](https://github.com/ryanjustindejesus/manage-authorization/blob/main/README.md)
   - [Adding and Managing users with Linux commands](https://github.com/ryanjustindejesus/Add-and-manage-users-with-Linux-commands/blob/main/README.md)
   - [Getting help in the command line](https://github.com/ryanjustindejesus/Get-help-in-the-command-line/blob/main/README.md)
+
 - <b>SQL Basics</b>
   - [Performing a SQL query](https://github.com/ryanjustindejesus/Perform-a-SQL-query/blob/main/README.md)
   - [Filtering a SQL query](https://github.com/ryanjustindejesus/Filter-a-SQL-query/blob/main/README.md)
   - [Applying more filters in SQL](https://github.com/ryanjustindejesus/Applying-more-filters-in-SQL/blob/main/README.md)
   - [Filtering with AND, OR, and NOT in SQL](https://github.com/ryanjustindejesus/Filter-with-AND-OR-and-NOT/blob/main/README.md)
   - [Completing a SQL join](https://github.com/ryanjustindejesus/Completing-a-SQL-join/blob/main/README.md)
-- <b>Python</b>
 
 - <b>SIEM Tools</b>
+
+- <b>Python</b>
 
 <h2>  Connect with me:</h2>
 
