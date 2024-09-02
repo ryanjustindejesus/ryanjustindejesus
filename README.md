@@ -24,6 +24,7 @@
 - <b>SQL</b>
   - [Performing a SQL query](https://github.com/ryanjustindejesus/Perform-a-SQL-query/blob/main/README.md)
   - [Filtering a SQL query](https://github.com/ryanjustindejesus/Filter-a-SQL-query/blob/main/README.md)
+  - [Applying more filters in SQL](https://github.com/ryanjustindejesus/Applying-more-filters-in-SQL/blob/main/README.md)
 - <b>Python</b>
 
 - <b>SIEM Tools</b>
