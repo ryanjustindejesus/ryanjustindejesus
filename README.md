@@ -21,6 +21,7 @@
   - [Managing authorization](https://github.com/ryanjustindejesus/manage-authorization/blob/main/README.md)
   - [Adding and Managing users with Linux commands](https://github.com/ryanjustindejesus/Add-and-manage-users-with-Linux-commands/blob/main/README.md)
   - [Getting help in the command line](https://github.com/ryanjustindejesus/Get-help-in-the-command-line/blob/main/README.md)
+  - [Decrypting an encrypted message](https://github.com/ryanjustindejesus/Decrypting-an-encrypted-mesage/blob/main/README.md)
 
 - <b>SQL Basics</b>
   - [Performing a SQL query](https://github.com/ryanjustindejesus/Perform-a-SQL-query/blob/main/README.md)
