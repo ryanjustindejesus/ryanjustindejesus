@@ -23,6 +23,7 @@
   - [Getting help in the command line](https://github.com/ryanjustindejesus/Get-help-in-the-command-line/blob/main/README.md)
   - [Decrypting an encrypted message](https://github.com/ryanjustindejesus/Decrypting-an-encrypted-mesage/blob/main/README.md)
   - [Hash values](https://github.com/ryanjustindejesus/Hash-values/blob/main/README.md)
+  - [Capturing my first packet](https://github.com/ryanjustindejesus/Capturing-my-first-packet/blob/main/README.md)
 
 - <b>SQL Basics</b>
   - [Performing a SQL query](https://github.com/ryanjustindejesus/Perform-a-SQL-query/blob/main/README.md)
