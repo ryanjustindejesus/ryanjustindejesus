@@ -24,6 +24,7 @@
   - [Decrypting an encrypted message](https://github.com/ryanjustindejesus/Decrypting-an-encrypted-mesage/blob/main/README.md)
   - [Hash values](https://github.com/ryanjustindejesus/Hash-values/blob/main/README.md)
   - [Capturing my first packet](https://github.com/ryanjustindejesus/Capturing-my-first-packet/blob/main/README.md)
+  - [Examining alerts, logs, and rules with Suricata](https://github.com/ryanjustindejesus/Examine-alerts-logs-and-rules-with-Suricata/blob/main/README.md)
 
 - <b>SQL Basics</b>
   - [Performing a SQL query](https://github.com/ryanjustindejesus/Perform-a-SQL-query/blob/main/README.md)
