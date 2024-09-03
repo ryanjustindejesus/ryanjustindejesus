@@ -2,13 +2,8 @@
 
 <h2> Cybersecurity Projects</h2>
 
-- <b>Linux</b>
+- <b>TBD</b>
 
-- <b>SQL</b>
-
-- <b>Python</b>
-
-- <b>SIEM Tools</b>
 
 <h2> Cybersecurity Lab Trainings:</h2>
 
@@ -32,8 +27,6 @@
   - [Applying more filters in SQL](https://github.com/ryanjustindejesus/Applying-more-filters-in-SQL/blob/main/README.md)
   - [Filtering with AND, OR, and NOT in SQL](https://github.com/ryanjustindejesus/Filter-with-AND-OR-and-NOT/blob/main/README.md)
   - [Completing a SQL join](https://github.com/ryanjustindejesus/Completing-a-SQL-join/blob/main/README.md)
-
-- <b>SIEM Tools</b>
 
 - <b>Python</b>
 
