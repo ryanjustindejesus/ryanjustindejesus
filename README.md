@@ -2,6 +2,10 @@
 
 <h2> Cybersecurity Projects</h2>
 
+- <b>Google Cybersecurity Professional Certificate</b>
+
+<h2> Cybersecurity Projects</h2>
+
 - <b>TBD</b>
 
 
