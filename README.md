@@ -3,6 +3,7 @@
 <h2> Cybersecurity Projects</h2>
 
 - <b>Google Cybersecurity Professional Certificate</b>
+- Qualys Vulnerability Management (In Progress)
 
 <h2> Cybersecurity Projects</h2>
 
