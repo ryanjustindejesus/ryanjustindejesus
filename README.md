@@ -3,7 +3,8 @@
 <h2> Cybersecurity Projects</h2>
 
 - <b>Google Cybersecurity Professional Certificate</b>
-- [Qualys Vulnerability Management (In Progress)](https://github.com/ryanjustindejesus/Qualys-Vulnerability-Management-Labs)
+- [Forage Cybersecurity Job Simulation Certifications]
+  
 
 <h2> Cybersecurity Projects</h2>
 
