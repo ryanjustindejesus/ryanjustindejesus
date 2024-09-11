@@ -4,11 +4,6 @@
 
 - <b>Google Cybersecurity Professional Certificate</b>
 - [Forage Cybersecurity Job Simulation Certifications](https://github.com/ryanjustindejesus/Forage-Cybersecurity-Job-Simulation-Certifications)
-  
-
-<h2> Cybersecurity Projects</h2>
-
-- <b>TBD</b>
 
 
 <h2> Cybersecurity Lab Trainings:</h2>
@@ -33,8 +28,6 @@
   - [Applying more filters in SQL](https://github.com/ryanjustindejesus/Applying-more-filters-in-SQL/blob/main/README.md)
   - [Filtering with AND, OR, and NOT in SQL](https://github.com/ryanjustindejesus/Filter-with-AND-OR-and-NOT/blob/main/README.md)
   - [Completing a SQL join](https://github.com/ryanjustindejesus/Completing-a-SQL-join/blob/main/README.md)
-
-- <b>Python</b>
 
 <h2>  Connect with me:</h2>
 
