@@ -8,7 +8,7 @@
 
 <h2> Cybersecurity Labs:</h2>
 
-- <b>Linux Basics</b>
+- <b>Google Cybersecurity Linux Labs</b>
   - [Installing Software in a Linux Distribution](https://github.com/ryanjustindejesus/Linux-Command-Line-Labs/blob/main/README.md)
   - [Examining input and output in the Linux shell](https://github.com/ryanjustindejesus/examine-input-and-output-in-the-shell/blob/main/README.md)
   - [Finding files with Linux commands](https://github.com/ryanjustindejesus/find-files-with-Linux-commands/blob/main/README.md)
@@ -22,7 +22,7 @@
   - [Capturing my first packet](https://github.com/ryanjustindejesus/Capturing-my-first-packet/blob/main/README.md)
   - [Examining alerts, logs, and rules with Suricata](https://github.com/ryanjustindejesus/Examine-alerts-logs-and-rules-with-Suricata/blob/main/README.md)
 
-- <b>SQL Basic</b>
+- <b>Google Cybersecurity SQL Labs</b>
   - [Performing a SQL query](https://github.com/ryanjustindejesus/Perform-a-SQL-query/blob/main/README.md)
   - [Filtering a SQL query](https://github.com/ryanjustindejesus/Filter-a-SQL-query/blob/main/README.md)
   - [Applying more filters in SQL](https://github.com/ryanjustindejesus/Applying-more-filters-in-SQL/blob/main/README.md)
