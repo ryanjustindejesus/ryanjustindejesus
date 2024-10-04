@@ -3,7 +3,7 @@
 <h2> Cybersecurity Projects</h2>
 
 - <b>Google Cybersecurity Professional Certificate</b>
-- [Forage Cybersecurity Job Simulation Certifications](https://github.com/ryanjustindejesus/Forage-Cybersecurity-Job-Simulation-Certifications)
+- [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/ryanjustindejesus/Azure-SOC-Honey-Project/blob/main/README.md)
 
 
 <h2> Cybersecurity Lab Trainings:</h2>
