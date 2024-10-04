@@ -38,6 +38,7 @@
   - [Precursor to Security Operations](https://github.com/ryanjustindejesus/Precursor-to-Security-Operations/blob/main/README.md)
   - [Azure Active Directory](https://github.com/ryanjustindejesus/Azure-Active-Directory/blob/main/README.md)
 
+- <b>Microsoft Azure Logging and Monitoring Labs</b>
 
 <h2>  Connect with me:</h2>
 
