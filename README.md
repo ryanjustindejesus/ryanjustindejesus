@@ -35,6 +35,7 @@
 - <b>Microsoft Azure Prerequisites and Installations</b>
   - [Creating Azure Subscriptions and Virtual Machines](https://github.com/ryanjustindejesus/Creating-Azure-Subscription-and-Virtual-Machines/blob/main/README.md)
   - [Disabling Windows Firewall and Installing MS SQL Server](https://github.com/ryanjustindejesus/Disabling-Windows-Firewall-and-Installing-MS-SQL-Server)
+  - [Precursor to Security Operations](https://github.com/ryanjustindejesus/Precursor-to-Security-Operations/blob/main/README.md)
 
 
 <h2>  Connect with me:</h2>
