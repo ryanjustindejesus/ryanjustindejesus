@@ -1,11 +1,11 @@
 <h1>Hi, I'm Ryan! <br/><a href="https://www.linkedin.com/in/ryanjustindejesus/"> Aspiring Cybersecurity Professional</a>
 
 <h2> Certifications</h2>
-- [Google Cybersecurity Professional Certificate](https://github.com/ryanjustindejesus/Google-Cybersecurity-Professional-/blob/main/Coursera%20-%20Google%20Cybersecurity%20Certificate.pdf)
 
+- [Google Cybersecurity Professional Certificate](https://github.com/ryanjustindejesus/Google-Cybersecurity-Professional-/blob/main/Coursera%20-%20Google%20Cybersecurity%20Certificate.pdf)
+  
 <h2> Cybersecurity Projects</h2>
 
-- [Google Cybersecurity Professional Certificate](https://github.com/ryanjustindejesus/Google-Cybersecurity-Professional-/blob/main/Coursera%20-%20Google%20Cybersecurity%20Certificate.pdf)
 - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/ryanjustindejesus/Azure-SOC-Honey-Project/blob/main/README.md)
 
 
