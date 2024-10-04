@@ -22,12 +22,17 @@
   - [Capturing my first packet](https://github.com/ryanjustindejesus/Capturing-my-first-packet/blob/main/README.md)
   - [Examining alerts, logs, and rules with Suricata](https://github.com/ryanjustindejesus/Examine-alerts-logs-and-rules-with-Suricata/blob/main/README.md)
 
-- <b>SQL Basics</b>
+- <b>SQL Basic</b>
   - [Performing a SQL query](https://github.com/ryanjustindejesus/Perform-a-SQL-query/blob/main/README.md)
   - [Filtering a SQL query](https://github.com/ryanjustindejesus/Filter-a-SQL-query/blob/main/README.md)
   - [Applying more filters in SQL](https://github.com/ryanjustindejesus/Applying-more-filters-in-SQL/blob/main/README.md)
   - [Filtering with AND, OR, and NOT in SQL](https://github.com/ryanjustindejesus/Filter-with-AND-OR-and-NOT/blob/main/README.md)
   - [Completing a SQL join](https://github.com/ryanjustindejesus/Completing-a-SQL-join/blob/main/README.md)
+ 
+  - <b>Microsoft Azure Intro</b>
+  - [Creating Azure Subscriptions and Virtual Machines](https://github.com/ryanjustindejesus/Creating-Azure-Subscription-and-Virtual-Machines/blob/main/README.md)
+  - [Disabling Windows Firewall and Installing MS SQL Server](https://github.com/ryanjustindejesus/Disabling-Windows-Firewall-and-Installing-MS-SQL-Server)
+
 
 <h2>  Connect with me:</h2>
 
