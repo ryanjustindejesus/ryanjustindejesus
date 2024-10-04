@@ -6,7 +6,7 @@
 - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/ryanjustindejesus/Azure-SOC-Honey-Project/blob/main/README.md)
 
 
-<h2> Cybersecurity Lab Trainings:</h2>
+<h2> Cybersecurity Labs:</h2>
 
 - <b>Linux Basics</b>
   - [Installing Software in a Linux Distribution](https://github.com/ryanjustindejesus/Linux-Command-Line-Labs/blob/main/README.md)
