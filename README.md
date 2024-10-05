@@ -39,6 +39,8 @@
   - [Azure Active Directory](https://github.com/ryanjustindejesus/Azure-Active-Directory/blob/main/README.md)
 
 - <b>Microsoft Azure Logging and Monitoring Labs</b>
+  - [Geo IP Data Ingestion & Log Analytics and Microsoft Sentinel (SIEM) Setup](https://github.com/ryanjustindejesus/GEO-IP-Data-Ingestion-and-Microsoft-Sentinel-SIEM-Setup/blob/main/README.md)
+  - 
 
 <h2>  Connect with me:</h2>
 
