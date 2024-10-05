@@ -43,11 +43,8 @@
   - [Enabling Microsoft Defender for Cloud](https://github.com/ryanjustindejesus/Enabling-Microsoft-Defender-for-Cloud/blob/main/README.md)
   - [Enable Log Collection for VMs and Network Security Groups](https://github.com/ryanjustindejesus/Enable-Log-Collection-for-VMs-and-Network-Security-Groups/blob/main/README.md)
   - [Tenet Level Logging](https://github.com/ryanjustindejesus/Tenet-Level-Logging/blob/main/README.md)
+  - [Subscription Level Logging](https://github.com/ryanjustindejesus/Subscription-Level-Logging/blob/main/README.md)
   - 
-  - 
-  - 
-  - 
-
 <h2>  Connect with me:</h2>
 
 
