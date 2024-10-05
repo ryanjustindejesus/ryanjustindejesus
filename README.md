@@ -42,7 +42,7 @@
   - [Geo IP Data Ingestion & Log Analytics and Microsoft Sentinel (SIEM) Setup](https://github.com/ryanjustindejesus/GEO-IP-Data-Ingestion-and-Microsoft-Sentinel-SIEM-Setup/blob/main/README.md)
   - [Enabling Microsoft Defender for Cloud](https://github.com/ryanjustindejesus/Enabling-Microsoft-Defender-for-Cloud/blob/main/README.md)
   - [Enable Log Collection for VMs and Network Security Groups](https://github.com/ryanjustindejesus/Enable-Log-Collection-for-VMs-and-Network-Security-Groups/blob/main/README.md)
-  - 
+  - [Tenet Level Logging](https://github.com/ryanjustindejesus/Tenet-Level-Logging/blob/main/README.md)
   - 
   - 
   - 
