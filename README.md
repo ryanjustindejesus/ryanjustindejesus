@@ -40,6 +40,12 @@
 
 - <b>Microsoft Azure Logging and Monitoring Labs</b>
   - [Geo IP Data Ingestion & Log Analytics and Microsoft Sentinel (SIEM) Setup](https://github.com/ryanjustindejesus/GEO-IP-Data-Ingestion-and-Microsoft-Sentinel-SIEM-Setup/blob/main/README.md)
+  - [Enabling Microsoft Defender for Cloud](https://github.com/ryanjustindejesus/Enabling-Microsoft-Defender-for-Cloud/blob/main/README.md)
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
 
 <h2>  Connect with me:</h2>
