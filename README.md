@@ -46,13 +46,13 @@
   - [Subscription Level Logging](https://github.com/ryanjustindejesus/Subscription-Level-Logging/blob/main/README.md)
   - [Resource Level Logging](https://github.com/ryanjustindejesus/Resource-Level-Logging/blob/main/README.md)
 
- - <b>Microsoft Azure Microsoft Sentinel (SIEM) Labs</b>
-  - [World Maps Contrusction](https://github.com/ryanjustindejesus/World-Maps-Construction/blob/main/README.md)
+- <b>Microsoft Azure Sentinel (SIEM)</b>
+  - [World Maps Construction](https://github.com/ryanjustindejesus/World-Maps-Construction/blob/main/README.md)
   - [Manual Alert Creation](
   - [Automatic Alert Import](
   - [Understanding and Triggering Sentinel Alerts](
   - [
-    
+
 <h2>  Connect with me:</h2>
 
 
