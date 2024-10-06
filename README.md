@@ -29,7 +29,7 @@
   - [World Maps Construction](https://github.com/ryanjustindejesus/World-Maps-Construction/blob/main/README.md)
   - [Manual Alert Creation](https://github.com/ryanjustindejesus/Manual-Alert-Creation/blob/main/README.md)
   - [Automatic Alert Import](https://github.com/ryanjustindejesus/Automatic-Alert-Import/blob/main/README.md)
-  - [Understanding and Triggering Sentinel Alerts](
+  - [Understanding and Triggering Sentinel Alerts](https://github.com/ryanjustindejesus/Understanding-and-Triggering-Sentinel-Alerts/blob/main/README.md)
   - [
 
 - <b>Google Cybersecurity Linux Labs</b>
