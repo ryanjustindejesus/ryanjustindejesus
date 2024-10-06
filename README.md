@@ -47,7 +47,7 @@
   - [Resource Level Logging](https://github.com/ryanjustindejesus/Resource-Level-Logging/blob/main/README.md)
 
  - <b>Microsoft Azure Microsoft Sentinel (SIEM) Labs</b>
-  - [World Maps Contrusction](
+  - [World Maps Contrusction](https://github.com/ryanjustindejesus/World-Maps-Construction/blob/main/README.md)
   - [Manual Alert Creation](
   - [Automatic Alert Import](
   - [Understanding and Triggering Sentinel Alerts](
