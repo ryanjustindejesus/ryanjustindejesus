@@ -44,7 +44,14 @@
   - [Enable Log Collection for VMs and Network Security Groups](https://github.com/ryanjustindejesus/Enable-Log-Collection-for-VMs-and-Network-Security-Groups/blob/main/README.md)
   - [Tenet Level Logging](https://github.com/ryanjustindejesus/Tenet-Level-Logging/blob/main/README.md)
   - [Subscription Level Logging](https://github.com/ryanjustindejesus/Subscription-Level-Logging/blob/main/README.md)
-  - 
+  - [Resource Level Logging](https://github.com/ryanjustindejesus/Resource-Level-Logging/blob/main/README.md)
+
+ - <b>Microsoft Azure Microsoft Sentinel (SIEM) Labs</b>
+  - [World Maps Contrusction](
+  - [Manual Alert Creation](
+  - [Automatic Alert Import](
+  - [Understanding and Triggering Sentinel Alerts](
+  - [
 <h2>  Connect with me:</h2>
 
 
