@@ -33,6 +33,7 @@
   - [Run Insecure Environment for 24 Hours and Capture Analytics](https://github.com/ryanjustindejesus/Run-Insecure-Environment-for-24-Hours-and-Capture-Analytics/blob/main/README.md)
   - [Incident Response 1: Brute Force Attempt - Windows](https://github.com/ryanjustindejesus/Incident-Response-1---Brute-Force-Attempt---Windows/blob/main/README.md)
   - [Incident Response 2: Brute Force Attempt - Linux Syslog](https://github.com/ryanjustindejesus/Incident-Response-2---Brute-Force-Attempt---Linux/blob/main/README.md)
+  - [Incident Response 3: Brute Force Success - Azure Active Directory](https://github.com/ryanjustindejesus/Incident-Response-3-Brute-Force-Success-Azure-Active-Directory/blob/main/README.md)
 
 - <b>Google Cybersecurity Linux Labs</b>
   - [Installing Software in a Linux Distribution](https://github.com/ryanjustindejesus/Linux-Command-Line-Labs/blob/main/README.md)
