@@ -35,6 +35,10 @@
   - [Incident Response 2: Brute Force Attempt - Linux Syslog](https://github.com/ryanjustindejesus/Incident-Response-2---Brute-Force-Attempt---Linux/blob/main/README.md)
   - [Incident Response 3: Brute Force Success - Azure Active Directory](https://github.com/ryanjustindejesus/Incident-Response-3-Brute-Force-Success-Azure-Active-Directory/blob/main/README.md)
   - [Incident Response 4: Possible Lateral Movement - Excessive Password Reset](https://github.com/ryanjustindejesus/Incident-Response-4-Possible-Lateral-Movement--Excessive-Password-Reset)
+ 
+- <b>Secure Cloud Configuration</b>
+  - [Regulatory Compliance: Enable NIST 800-53]
+  - [Azure Private Link & Firewall for Resources (NIST SC-7)]
 
 - <b>Google Cybersecurity Linux Labs</b>
   - [Installing Software in a Linux Distribution](https://github.com/ryanjustindejesus/Linux-Command-Line-Labs/blob/main/README.md)
