@@ -38,7 +38,7 @@
  
 - <b>Secure Cloud Configuration</b>
   - [Regulatory Compliance: Enable NIST 800-53](https://github.com/ryanjustindejesus/Regulatory-Compliance-Enable-NIST-800-53/blob/main/README.md)
-  - [Azure Private Link & Firewall for Resources (NIST SC-7)]
+  - [Azure Private Link & Firewall for Resources (NIST SC-7)](https://github.com/ryanjustindejesus/Azure-Private-Link-Firewall-for-Resources-NIST-SC-7/blob/main/README.md)
 
 - <b>Google Cybersecurity Linux Labs</b>
   - [Installing Software in a Linux Distribution](https://github.com/ryanjustindejesus/Linux-Command-Line-Labs/blob/main/README.md)
