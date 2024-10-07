@@ -37,7 +37,7 @@
   - [Incident Response 4: Possible Lateral Movement - Excessive Password Reset](https://github.com/ryanjustindejesus/Incident-Response-4-Possible-Lateral-Movement--Excessive-Password-Reset)
  
 - <b>Secure Cloud Configuration</b>
-  - [Regulatory Compliance: Enable NIST 800-53]
+  - [Regulatory Compliance: Enable NIST 800-53](https://github.com/ryanjustindejesus/Regulatory-Compliance-Enable-NIST-800-53/blob/main/README.md)
   - [Azure Private Link & Firewall for Resources (NIST SC-7)]
 
 - <b>Google Cybersecurity Linux Labs</b>
