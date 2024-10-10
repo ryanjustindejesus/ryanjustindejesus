@@ -11,7 +11,7 @@
 
 <h2> Information Technology Projects</h2>
 
-- [osTicket: Prerequisites and Installation]
+- [osTicket: Prerequisites and Installation](https://github.com/ryanjustindejesus/osTicket-Prerequisites-and-Installation/blob/main/README.md)
 - [osTicket: Post-Installation Configuration]
 - [osTicket: Ticket Lifecycle Eexamples]
 
