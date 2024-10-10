@@ -13,7 +13,7 @@
 
 - [osTicket: Prerequisites and Installation](https://github.com/ryanjustindejesus/osTicket-Prerequisites-and-Installation/blob/main/README.md)
 - [osTicket: Post-Installation Configuration]
-- [osTicket: Ticket Lifecycle Eexamples]
+- [osTicket: Ticket Lifecycle Examples]
 
 
 <h2> Cybersecurity Labs:</h2>
