@@ -9,6 +9,13 @@
 - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/ryanjustindejesus/Azure-SOC-Honey-Project/blob/main/README.md)
 
 
+<h2> Information Technology Projects</h2>
+
+- [osTicket: Prerequisites and Installation]
+- [osTicket: Post-Installation Configuration]
+- [osTicket: Ticket Lifecycle Eexamples]
+
+
 <h2> Cybersecurity Labs:</h2>
 
 - <b>Microsoft Azure Prerequisites and Installations Labs</b>
