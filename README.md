@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan! <br/><a href="https://www.linkedin.com/in/ryanjustindejesus/"> Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Ryan! <br/><a href="https://www.linkedin.com/in/ryanjustindejesus/"> Aspiring Information Technology and Cybersecurity Professional</a>
 
 <h2> Certifications</h2>
 
