@@ -14,6 +14,7 @@
 - [osTicket: Prerequisites and Installation](https://github.com/ryanjustindejesus/osTicket-Prerequisites-and-Installation/blob/main/README.md)
 - [osTicket: Post-Installation Configuration](https://github.com/ryanjustindejesus/osTicket-Post-Installation-Configuration/blob/main/README.md)
 - [osTicket: Ticket Lifecycle Examples](https://github.com/ryanjustindejesus/osTicket---Ticket-Lifecycle-Examples/blob/main/README.md)
+- [Active Directory Deployed in Azure](https://github.com/ryanjustindejesus/Active-Directory-Deployed-in-Azure/blob/main/README.md)
 
 
 <h2> Cybersecurity Labs:</h2>
